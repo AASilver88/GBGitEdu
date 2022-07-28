@@ -1,5 +1,6 @@
 # GBGitEdu
 **GeekBrains Git study.**
+
 #ОПИСАНИЕ СИНТАКСИСА MARKDOWN#
 
 ##Блочные элементы##
