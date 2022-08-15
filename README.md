@@ -1,2 +1,2 @@
 # GBGitEdu
-**GeekBrains Git study.**
+
